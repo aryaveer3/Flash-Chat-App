@@ -6,10 +6,7 @@ Flash Chat is an internet based messaging app. This app is using a service calle
 
 ## Screenshots
 
-![Home Screen](Documentation/img1.png)
-![Register Screen](Documentation/img2.png)
-![Login Screen](Documentation/img3.png)
-![Chat Screen](Documentation/img4.png)
+![App Screens](Documentation/FlashChat-Banner.png)
 
 
 ## Acknowledgements
